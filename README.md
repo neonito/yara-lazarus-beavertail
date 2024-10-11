@@ -51,3 +51,5 @@ Conditions that must be met for the rule to trigger:
 
 ## Usage
 To use this YARA rule, add it to your rule set and run a scan on suspicious files or processes.
+
+![Screenshot](yara-lazarus-beavertail-screen.png)
